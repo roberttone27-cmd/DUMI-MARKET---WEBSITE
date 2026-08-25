@@ -40,3 +40,10 @@ Acestea sunt imagini ilustrative, nu fotografii pretinse a fi făcute în magazi
 
 Harta:
 Google Maps embed-ul care se afișa gol în anumite browsere a fost înlocuit cu un embed OpenStreetMap, care nu necesită API key. Butonul de navigare rămâne Google Maps.
+
+
+Hero Mobile V2:
+- Păstrează fotografia reală `images/hero.jpg`.
+- Nu modifică fotografia; efectele sunt făcute din CSS.
+- Hero-ul mobil are gradient cinematic, glow cald discret, contrast/saturație optimizate și layout mai compact.
+- Butoanele și headline-ul au dimensiuni adaptate pentru telefon.
