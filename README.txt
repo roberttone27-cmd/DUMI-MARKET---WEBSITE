@@ -1,49 +1,21 @@
-DUMI MARKET - V2
-Am corectat imaginile lipsă și am eliminat imaginile de produse inventate.
-Imaginile folosite în site sunt fotografiile reale furnizate de tine.
+DUMI MARKET — V3 PREMIUM GALLERY
 
-Fișiere:
-index.html
-style.css
-script.js
-images/hero.jpg
-images/store-day.jpg
-images/store-evening.jpg
-
-Datele reale introduse:
-- Adresă: Strada Colonel Angelescu, Nr. 2A, Șimnicu de Sus, Dolj
-- Program: Luni – Duminică, 07:00 – 23:00
-- Telefon: +40 743 175 836
-
-De completat ulterior:
-- linkurile social media
+- Site construit pe baza ultimei versiuni V2 furnizate.
+- Au fost selectate 12 fotografii reale din setul de 40.
+- Fotografiile au primit o corecție fotografică discretă: contrast, culoare, luminozitate, claritate și crop.
+- Galerie cu filtre: Toate, Exterior, Interior, Raioane, Comunitate.
+- Galerie responsive desktop/mobile.
+- Lightbox fullscreen cu navigare și tastele săgeată.
+- Fotografia principală (hero) folosește un cadru real al magazinului.
 
 
-V4 actualizări:
-- Instagram eliminat din footer.
-- Facebook legat la profilul oficial furnizat.
-- Harta falsă înlocuită cu hartă Google Maps reală, fără API.
-- Telefonul poate fi apelat direct de pe telefon.
-- Eliminat textul care spunea că datele sunt demo.
+V4:
+- Galeria extinsă la toate cele 40 de fotografii reale furnizate.
+- Fotografii optimizate discret pentru web.
+- Secțiunea și linkurile „Promoții” eliminate.
+- Galerie cu filtre Exterior / Interior / Comunitate și lightbox.
 
+V5:
+- Poster dedicat pentru încărcare elegantă și fallback.
 
-Categorii:
-Au fost adăugate fotografii ilustrative generate pentru:
-- Fructe & Legume
-- Panificație
-- Lactate
-- Băuturi & Snacks
-- Produse pentru casă
-
-Acestea sunt imagini ilustrative, nu fotografii pretinse a fi făcute în magazin.
-
-
-Harta:
-Google Maps embed-ul care se afișa gol în anumite browsere a fost înlocuit cu un embed OpenStreetMap, care nu necesită API key. Butonul de navigare rămâne Google Maps.
-
-
-Hero Mobile V2:
-- Păstrează fotografia reală `images/hero.jpg`.
-- Nu modifică fotografia; efectele sunt făcute din CSS.
-- Hero-ul mobil are gradient cinematic, glow cald discret, contrast/saturație optimizate și layout mai compact.
-- Butoanele și headline-ul au dimensiuni adaptate pentru telefon.
+V6: Filmarea cu drona eliminată complet. Hero-ul folosește din nou fotografia reală a magazinului.

@@ -1,0 +1,19 @@
+DUMI MARKET — SITE V2
+========================
+
+Structura:
+/
+├── index.html
+├── style.css
+├── script.js
+├── README.txt
+└── images/
+    ├── dumi_contact.jpg
+    └── gallery-original/
+        ├── 00.jpg ... 39.jpg
+
+Nota:
+- index.html, style.css și script.js sunt ultima versiune primită.
+- Fotografiile din images/gallery-original sunt fotografiile reale trimise pentru etapa următoare.
+- Galeria premium și selecția finală a fotografiilor urmează să fie integrate după cosmetizarea imaginilor.
+- În această arhivă nu am înlocuit încă automat imaginile actuale din site cu toate fotografiile noi.
