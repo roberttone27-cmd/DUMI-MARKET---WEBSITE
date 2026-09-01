@@ -19,3 +19,9 @@ V5:
 - Poster dedicat pentru încărcare elegantă și fallback.
 
 V6: Filmarea cu drona eliminată complet. Hero-ul folosește din nou fotografia reală a magazinului.
+
+
+V7:
+- Galeria redusă la 35 de fotografii pentru un aspect mai curat.
+- Din fotografiile de exterior au rămas 3 cadre diferite: intrare, fațadă și vedere largă.
+- Au fost eliminate 5 fotografii de exterior similare/redundante din galerie.
